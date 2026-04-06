@@ -1,6 +1,6 @@
 # Character-Level GPT for Persian Poetry
 
-A decoder-only Transformer trained on classical Persian poetry (ghazals from the [Ganjoor](https://ganjoor.net) dataset) to generate verse and study how poetic structure emerges in neural representations.
+A decoder-only Transformer trained on classical Persian poetry (ghazals from the [Ganjoor](https://huggingface.co/datasets/kakooch/ganjoor-processed) dataset) to generate verse and study how poetic structure emerges in neural representations.
 
 Built for **Lab 3** of the *Theory and Practice of Large Language Models* course at Université Paris Cité, taught by Professor Guillaume Wisniewski.
 
